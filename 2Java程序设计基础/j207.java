@@ -1,4 +1,4 @@
-
+import java.io.*;
 public class j207 {
 	public static void main(String arg[])
 	{

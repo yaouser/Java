@@ -1,3 +1,4 @@
+import java.io.*;
 public class j204 {
 	static int x=5;  	//定义变量x为类变量
 	public static void main(String arg[])

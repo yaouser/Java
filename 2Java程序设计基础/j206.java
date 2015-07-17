@@ -1,5 +1,4 @@
-
-
+import java.io.*;
 public class j206 {
 	public static void main(String arg[])
 	{

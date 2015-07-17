@@ -1,3 +1,4 @@
+import java.io.*;
 public class BasicType {
 	public static void main(String args[])
 	{
